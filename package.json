@@ -1,0 +1,15 @@
+{
+	"name": "tic-tac-toe",
+	"version": "1.0.0",
+	"description": "A simple game of noughts and crosses.",
+	"default": "index.html",
+	"scripts": {
+		"start": "parcel index.html",
+		"build": "parcel build index.html --dist-dir ./dist"
+	},
+	"author": "Yusuff Joseph",
+	"license": "ISC",
+	"dependencies": {
+		"parcel": "^2.8.3"
+	}
+}
